@@ -12,6 +12,8 @@
 	<div class="container">
 	<h1>home입니다.</h1> 	
 	<button type="button" class="btn btn-dark">Dark</button>
+	<br />
+	<a href="https://www.naver.com">네이버</a>
 	
 	</div>
 </body>
